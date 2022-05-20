@@ -1,4 +1,4 @@
-package com.example.loginandjoin;
+package com.example.RunnerBee;
 
 import org.junit.Test;
 

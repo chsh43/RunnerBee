@@ -1,11 +1,12 @@
-package com.example.loginandjoin;
+package com.example.RunnerBee;
 
 import androidx.appcompat.app.AppCompatActivity;
 
-import android.content.Intent;
 import android.os.Bundle;
 import android.widget.TextView;
 
+
+import com.example.RunnerBee.R;
 public class MainActivity extends AppCompatActivity {
     private TextView tv_id, tv_pass;
 
