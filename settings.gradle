@@ -12,5 +12,9 @@ dependencyResolutionManagement {
         mavenCentral()
     }
 }
+<<<<<<< HEAD
 rootProject.name = "RunnerBee"
+=======
+rootProject.name = "LoginAndJoin"
+>>>>>>> origin/master
 include ':app'
